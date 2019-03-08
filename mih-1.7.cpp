@@ -303,7 +303,7 @@ int main(){
   std:: vector<int> dMih3(nhvir);
 
   std:: string filout;
-  filout = "MatchingHaloes-1.7_." + ssnap + ".gv";
+  filout = "MatchingHaloes-1.7_" + ssnap + ".gv";
   std:: ofstream ofilout;
   ofilout.open(filout.c_str());
 
