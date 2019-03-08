@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -lstdc++ -std=c++0x -fpermissive mie.cpp -o ~/bin/MiEllipsoids-1.0
+
+    

@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -lstdc++ -std=c++0x -fpermissive mih-1.7.cpp -o ~/bin/MiHaloes-1.7
+
+    
